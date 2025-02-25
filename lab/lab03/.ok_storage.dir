@@ -1,0 +1,4 @@
+'print_if-correct', (0, 70)
+'close-correct', (512, 70)
+'close_list-correct', (1024, 70)
+'make_onion-correct', (1536, 70)
